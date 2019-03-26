@@ -99,3 +99,16 @@ Resulting peptide sequences for candidate ORFs with all shorter candidates withi
 [0804_Pgen_larvae.fasta.transdecoder.pep](http://owl.fish.washington.edu/halfshell/bu-alanine-wd/17-08-10/0804_Pgen_larvae.fasta.transdecoder.pep)
 
 Number of sequences: 36891
+
+
+---
+To decrease redundancy in the proteome database, CD-HIT was applied with a sequence identity cut-off of 0.9 and word size of 5. This reduced the protein fasta file from 36,891 sequences to 28,013 sequences.
+
+
+Common protein laboratory contaminants from bovine, human, and other (cRAPome) (127) were added to the Panopea generosa larval deduced proteome resulin
+
+
+
+Resulting reference proteome:
+
+`data/Pgen_larvae_cd0.9.contam`
