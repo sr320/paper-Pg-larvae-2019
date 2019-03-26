@@ -2,7 +2,9 @@
 
 ## Transcriptome
 
-A TruSeq Stranded mRNA library (Illumina) was created using geoduck larvae (5 dpf) and sequenced on NovaSeq Platform (2 lanes). Sequence reads were assembled using Trinity.
+A TruSeq Stranded mRNA library (Illumina) was created using geoduck larvae (5 dpf) and sequenced on NovaSeq Platform (2 lanes).
+NCBI Accession # [PRJNA529226](https://www.ncbi.nlm.nih.gov/bioproject/529226)
+Sequence reads were assembled using Trinity.
 
 
 ```
